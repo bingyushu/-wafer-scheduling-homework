@@ -1,0 +1,10 @@
+工作目录 cwd: C:\Users\HP\Projects\wafer-scheduling-homework
+项目目录: C:\Users\HP\Projects\wafer-scheduling-homework
+Python 路径: C:\Users\HP\miniconda3\envs\wafer-scheduling\python.exe
+Python 版本: 3.11.18
+Python prefix: C:\Users\HP\miniconda3\envs\wafer-scheduling
+Conda 环境变量: wafer-scheduling
+Conda prefix 变量: C:\Users\HP\miniconda3\envs\wafer-scheduling
+处于项目根目录: True
+练习文件存在: True
+请核对 Python 路径，并与编辑器选择的解释器路径比较。
